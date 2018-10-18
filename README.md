@@ -1,4 +1,4 @@
-# Winamp
+# Winamp for Windows
 ![[](https://www.winamp.com/)](https://www.winamp.com/images/logo-bottom.png)
 
 **Download all versions of Winamp Here**
