@@ -7,8 +7,8 @@
 >**Previous Version:** Winamp 5.666 Build 3516 (5.6.6.3516) [*[Full Version Download]*](https://github.com/thisisshihan/Winamp/raw/master/winamp5666_full_en-us.exe) [*[Lite Version Download]*](https://github.com/thisisshihan/Winamp/raw/master/winamp5666_lite_en-us.exe) *(Released on 12th Dec 2013)*
 #
 **Winamp Skin**<br />
-* [_Big Bento Modern Skin by Victhor_](https://getwacup.com/community/index.php?PHPSESSID=rgvgajgn57i1usrc53dtodduh3&action=dlattach;topic=327.0;attach=511)
-* [_Big Bento Modern Skin by Victhor Windows 10_](https://getwacup.com/community/index.php?PHPSESSID=rgvgajgn57i1usrc53dtodduh3&action=dlattach;topic=327.0;attach=512)
+>[_Big Bento Modern Skin by Victhor_](https://getwacup.com/community/index.php?PHPSESSID=rgvgajgn57i1usrc53dtodduh3&action=dlattach;topic=327.0;attach=511)<br />
+>[_Big Bento Modern Skin by Victhor Windows 10_](https://getwacup.com/community/index.php?PHPSESSID=rgvgajgn57i1usrc53dtodduh3&action=dlattach;topic=327.0;attach=512)
 #
 **Winamp 5.8 build 3653 beta Full changelog below:**<br />
 > * New: Windows Audio (WASAPI) Output plug-in (w.i.p.)
