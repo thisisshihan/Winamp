@@ -2,8 +2,8 @@
 # Winamp for Windows
 **Download all versions of Winamp Here**
 
->**Latest Version:** Winamp 5.8 build 3653 beta [*[Full Version Download]*](https://github.com/thisisshihan/Winamp/raw/master/winamp58_3653_beta_full_en-us.exe) *(Leaked on 16th Sep 2018)*<br />
->**Previous Version:** Winamp 5.666 Build 3516 (5.6.6.3516) [*[Full Version Download]*](https://github.com/thisisshihan/Winamp/raw/master/winamp5666_full_en-us.exe) [*[Lite Version Download]*](https://github.com/thisisshihan/Winamp/raw/master/winamp5666_lite_en-us.exe) *(Released on 12th Dec 2013)*
+>**Latest Version:** Winamp 5.8 build 3653 beta *Full Version* [*Download*](https://github.com/thisisshihan/Winamp/raw/master/winamp58_3653_beta_full_en-us.exe) *(Leaked on 16th Sep 2018)*<br />
+>**Previous Version:** Winamp 5.666 Build 3516 (5.6.6.3516) *Full Version* [*Download*](https://github.com/thisisshihan/Winamp/raw/master/winamp5666_full_en-us.exe) *Lite Version* [*Download*](https://github.com/thisisshihan/Winamp/raw/master/winamp5666_lite_en-us.exe) *(Released on 12th Dec 2013)*
 #
 **Winamp Skin**<br />
 >Big Bento Modern Skin by Victhor [*Download*](https://getwacup.com/community/index.php?PHPSESSID=rgvgajgn57i1usrc53dtodduh3&action=dlattach;topic=327.0;attach=511)<br />
