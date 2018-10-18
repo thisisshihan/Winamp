@@ -6,8 +6,8 @@
 #
 **Winamp Skin**<br />
 * [_Big Bento Modern Skin by Victhor_](https://getwacup.com/community/index.php?PHPSESSID=rgvgajgn57i1usrc53dtodduh3&action=dlattach;topic=327.0;attach=511)
-* [_Big Bento Modern Skin by Victhor Windows 10_](https://getwacup.com/community/index.php?PHPSESSID=rgvgajgn57i1usrc53dtodduh3&action=dlattach;topic=327.0;attach=512)#
-
+* [_Big Bento Modern Skin by Victhor Windows 10_](https://getwacup.com/community/index.php?PHPSESSID=rgvgajgn57i1usrc53dtodduh3&action=dlattach;topic=327.0;attach=512)
+#
 **Winamp 5.8 build 3653 beta Full changelog below:**<br />
 > * New: Windows Audio (WASAPI) Output plug-in (w.i.p.)
 > * Improved: Added an option to completely disable Winamp's video support
