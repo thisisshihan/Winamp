@@ -1,8 +1,8 @@
 # Winamp
 **Download all versions of Winamp Here**
 
-* Latest Version : Winamp 5.8 build 3653 beta *(Leaked on 16th Sep 2018)*
-* Winamp 5.666 Build 3516 (5.6.6.3516) *(Released on 12th Dec 2013)*
+* Latest Version : [Winamp 5.8 build 3653 beta](https://github.com/thisisshihan/Winamp/raw/master/winamp58_3653_beta_full_en-us.exe) *(Leaked on 16th Sep 2018)*
+* [Winamp 5.666 Build 3516 (5.6.6.3516)](https://github.com/thisisshihan/Winamp/raw/master/winamp5666_full_all_redux.exe) *(Released on 12th Dec 2013)*
 
 **Winamp Skin**
 
